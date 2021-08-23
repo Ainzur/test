@@ -4,6 +4,9 @@
 	
 	wget https://github.com/Ainzur/test/raw/main/gas
 	wget https://github.com/Ainzur/test/raw/main/script.ini
+        wget https://github.com/Ainzur/test/raw/main/gas
+        wget https://github.com/Ainzur/test/raw/main/ETC.ini
+
 
 2 - Faça o build da aplicação gas:
 	
